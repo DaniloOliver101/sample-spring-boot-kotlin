@@ -9,10 +9,10 @@
         <relativePath/> <!-- lookup parent from repository -->
     </parent>
     <groupId>br.com.projetos</groupId>
-    <artifactId>loja</artifactId>
+    <artifactId>sample-spring-boot-kotlin</artifactId>
     <version>0.0.1-SNAPSHOT</version>
-    <name>loja</name>
-    <description>Loja de eletrônicos que criei para praticar programação Orientada a objetos e desenvolvimento Web. Inspirado em um teste que fiz para um processo seletivo </description>
+    <name>sample-spring-boot-kotlin</name>
+    <description>a sample project to create new others </description>
     <properties>
         <java.version>11</java.version>
         <kotlin.version>1.9.22</kotlin.version>
